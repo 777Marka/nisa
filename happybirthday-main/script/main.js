@@ -137,7 +137,7 @@ function buildTimeline(rendered) {
     }
   });
 
-  // Flush remaining
+  // Fl
   deferredExits.forEach((fn) => fn());
 
   // Setup replay
